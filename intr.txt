@@ -1,2 +1,3 @@
 Git is a version control
 Add something
+Add GPL
